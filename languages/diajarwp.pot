@@ -1,0 +1,399 @@
+# Copyright (C) 2015 Akmal Fahrurizal (makmalf)
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: diajarwp 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-06-09 07:03:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: inc/template-tags.php:257
+msgid "1"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#. translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid ""
+"Diskusi ditutup. Silakan hubungi penulis untuk info yang lebih lanjut "
+"mengenai entri ini."
+msgstr ""
+
+#: content-firstPost.php:19 content.php:42
+#. translators: %s: Name of current post
+msgid "Selengkapnya %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-firstPost.php:26 content-page.php:23 content-search.php:37
+#: content-single.php:38 content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:30 inc/template-tags.php:261
+msgid "Edit"
+msgstr ""
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Expanded Area Col-1"
+msgstr ""
+
+#: functions.php:110
+msgid "Expanded Area Col-2"
+msgstr ""
+
+#: functions.php:120
+msgid "Expanded Area Col-3"
+msgstr ""
+
+#: functions.php:159
+msgid "shortWords"
+msgstr ""
+
+#: functions.php:160
+msgid "Parent Item:"
+msgstr ""
+
+#: functions.php:161
+msgid "All Items"
+msgstr ""
+
+#: functions.php:163
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:164
+msgid "Add New"
+msgstr ""
+
+#: functions.php:165
+msgid "Edit Item"
+msgstr ""
+
+#: functions.php:166
+msgid "Update Item"
+msgstr ""
+
+#: functions.php:167
+msgid "Search Item"
+msgstr ""
+
+#: functions.php:168
+msgid "Not found"
+msgstr ""
+
+#: functions.php:169
+msgid "Not found in Trash"
+msgstr ""
+
+#: functions.php:172
+msgid "diajarwp_shortWords"
+msgstr ""
+
+#: functions.php:173
+msgid "shortWords adalah quote alternatif"
+msgstr ""
+
+#: functions.php:206
+msgid "Quote Content"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr ""
+
+#: inc/footer-feature.php:8
+msgid "Bagikan Artikel Ini"
+msgstr ""
+
+#: inc/footer-feature.php:49
+msgid "Komentar"
+msgstr ""
+
+#: inc/footer-feature.php:65
+msgid "Bacaan selanjutnya:"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:187
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid ""
+"<div class=\"label-nav\"><i>Entry sebelumnya</i></div><div "
+"class=\"nav-previous\">%link</div>"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid ""
+"<div class=\"label-nav\"><i>Entry selanjutnya</i></div><div "
+"class=\"nav-next\">%link</div>"
+msgstr ""
+
+#: inc/template-tags.php:242 inc/template-tags.php:248
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:244 inc/template-tags.php:250
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:257
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:257
+msgid "%"
+msgstr ""
+
+#: inc/template-tags.php:278
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:280
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:282
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:284
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:286
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:288
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:310
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:314
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:316
+msgid "Archives"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "diajarwp"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/makmalf/diajarwp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Just another Wordpress theme with Bootstrap Framework and (hope) has enough "
+"twisted elements inside. :)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Akmal Fahrurizal (makmalf)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://makmalf.com"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:157
+msgctxt "Post Type General Name"
+msgid "shortWords Items"
+msgstr ""
+
+#: functions.php:158
+msgctxt "Post Type Singular Name"
+msgid "shortWords Item"
+msgstr ""
+
+#: inc/template-tags.php:121 inc/template-tags.php:122
+#: inc/template-tags.php:132 inc/template-tags.php:133
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/template-tags.php:122 inc/template-tags.php:133
+msgctxt "placeholder"
+msgid "Search here…"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:284
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:286
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:288
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:291
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:293
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:295
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:297
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:299
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:301
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:303
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:305
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:307
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
