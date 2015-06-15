@@ -18,8 +18,8 @@ diajarwp is based on Underscores http://underscores.me/, (C) 2012-2015 Automatti
 */
 
 .gist {
-max-height: 320px;
-overflow: auto;
+	max-height: 320px;
+	overflow: auto;
 }
 
 /*--------------------------
@@ -1051,4 +1051,86 @@ body.search-no-results #featured-footer {
 span#shortWords {
 	display: inline-block;
 	color: rgba(0, 0, 0, 0.6);
+}
+
+/**
+ * RWD
+ */
+@media screen and (max-width: 991px) {
+	#secondary {
+		border-top: 5px solid #5F5E5E;
+		margin-top: 42px;
+		padding-top: 42px;
+	}
+
+	footer#colophon {
+		font-size: 10px;
+	}
+
+	#featured-footer.text-right {
+		text-align: left;
+	}
+
+	span#shortWords {
+		padding-top: 0px;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+	article.very1stPost h1.entry-title, 
+	article.category-snippets h1.entry-title,
+	h1.entry-title,
+	.nav-links a, 
+	h2.comments-title {
+		font-size: 22px;
+	}
+
+	article.very1stPost .entry-footer {
+		display: none;
+	}
+
+	#searchForm-header .form-group {
+		margin-bottom: 0;
+		display: inline-block;
+	}
+
+	#searchForm-header.text-right {
+		text-align: left;
+	}
+
+	.entry-content {
+		font-size: 14px;
+	}
+
+	footer.entry-footer {
+		font-size: 10px;
+	}
+}
+
+@media screen and (max-width: 745px) {
+	header#masthead.padding {
+		padding: 18px 0;
+	}
+	.content-very1stPost {
+	    position: absolute;
+	    top: 0px;
+	    bottom: 0;
+	    width: 100%;
+	    padding: 22px;
+	    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0%;
+	    color: #FFF;
+	    display: block;
+	}
+}
+
+@media screen and (max-width: 450px) { 
+	article.very1stPost .entry-footer {
+		display: block;
+	}
+
+	article.very1stPost .entry-content {
+		display: none;
+	}
+
 }
