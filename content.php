@@ -37,11 +37,7 @@
 	<?php if(!in_category('snippets')) : ?>
 	<div class="entry-content">
 		<?php
-			/* translators: %s: Name of current post */
-			the_content( sprintf(
-				__( 'Selengkapnya %s <span class="meta-nav">&rarr;</span>', 'diajarwp' ),
-				the_title( '<span class="screen-reader-text">"', '"</span>', false )
-			) );
+			the_excerpt();
 		?>
 
 		<?php

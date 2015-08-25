@@ -720,13 +720,11 @@ h1.entry-title, h1.entry-title a {
 	z-index: -1;
 }
 
-article.category-snippets h1.entry-title {
+h1.entry-title {
 	font-size: 26px;
 }
 
-article.category-snippets.article-single h1.entry-title {
-	font-size: 26px;
-}
+
 
 /* Very1stPost */
 article.very1stPost {
